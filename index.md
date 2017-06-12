@@ -111,3 +111,6 @@
 **ผู้ประสานงานหลัก** มุก ทิพยา จินตโกวิท [ux.in.th+publicity@gmail.com](mailto:ux.in.th+publicity@gmail.com)
 
 *คุณจะช่วยได้อย่างไร?:* หากมีอะไรในชุมชน UX/HCI ในไทยที่ควรจะบอกให้โลกรู้ เขียนไอเดียของคุณส่งไปให้มุกได้ที่อีเมล์ข้างต้น
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/th/"><img alt="สัญญาอนุญาตของครีเอทีฟคอมมอนส์" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/th/80x15.png" /></a><br />ผลงานนี้ ใช้<a rel="license" href="http://creativecommons.org/licenses/by/3.0/th/">สัญญาอนุญาตของครีเอทีฟคอมมอนส์แบบ แสดงที่มา 3.0 ประเทศไทย</a>.
