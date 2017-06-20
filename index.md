@@ -115,5 +115,9 @@
 
 *คุณจะช่วยได้อย่างไร?:* หากมีอะไรในชุมชน UX/HCI ในไทยที่ควรจะบอกให้โลกรู้ เขียนไอเดียของคุณส่งไปให้มุกได้ที่อีเมล์ข้างต้น
 
+## รายงานอื่นๆ จากเวิร์คช็อบ
+* [keynote slides](https://drive.google.com/file/d/0BxqXf9j0jbBNZFVXdWlScThlNFE/view?usp=sharing)
+* [Workshop report for ACM](https://docs.google.com/document/d/1DJ23TBhQcPIe06fOZTNrJLEFnnDnQcmEL34-BwMV-gk/edit#)
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/th/"><img alt="สัญญาอนุญาตของครีเอทีฟคอมมอนส์" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/th/80x15.png" /></a><br />ผลงานนี้ ใช้<a rel="license" href="http://creativecommons.org/licenses/by/3.0/th/">สัญญาอนุญาตของครีเอทีฟคอมมอนส์แบบ แสดงที่มา 3.0 ประเทศไทย</a>.
